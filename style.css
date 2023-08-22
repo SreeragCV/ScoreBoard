@@ -1,0 +1,24 @@
+html,body{
+    height: 100vh;
+    background: linear-gradient(
+        to right,
+        #ef233c 0%,
+        #ef233c 50%,
+        #2176ff 50%,
+        #2176ff 100%
+    );
+
+}
+
+.container{
+    margin-top: 85px;
+ }
+
+.winner{
+    color: green;
+}
+
+.loser{
+    color: red;
+}
+
